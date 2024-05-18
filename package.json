@@ -1,0 +1,21 @@
+{
+  "name": "oop-my-bank-sny13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soniya dawood",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "faker-js": "^1.0.0",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
